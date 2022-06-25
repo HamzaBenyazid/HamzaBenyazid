@@ -10,7 +10,7 @@
 - 📫 How to reach me: [hamza-benyazid](https://www.linkedin.com/in/hamza-benyazid/) or hamzabyazid@gmail.com
 - ⚡ Fun fact: I ❤️ ♟️ and competitive programming 
 
- <details>
+
   <summary>
     <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
   </summary>
@@ -37,4 +37,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40px"/>
   </p>
- </details>
+  <summary>
+    <b>🛠️&nbsp;&nbsp;My&nbsp;Github&nbsp;Stats</b>
+  </summary>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzaBenyazid)](https://github.com/anuraghazra/github-readme-stats)
