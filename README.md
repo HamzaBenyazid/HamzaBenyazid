@@ -4,8 +4,7 @@
 
 - 👋 My name is Hamza Ben Yazid
 - 🔭 I’m currently working on some cool projects 😉
-- 🌱 I’m currently learning some DevOps technologies
-
+- 🌱 I’m currently a DevOps Intern @Oracle
 - 💬 Ask me about everything related to web developement 😁
 - 📫 How to reach me: [hamza-benyazid](https://www.linkedin.com/in/hamza-benyazid/) or hamzabyazid@gmail.com
 - ⚡ Fun fact: I ❤️ ♟️ and competitive programming 
