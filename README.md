@@ -83,14 +83,14 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaBenyazid&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaBenyazid&hide_border=true&theme=dark" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HamzaBenyazid&theme=default" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HamzaBenyazid&theme=github_dark" alt="GitHub Profile Summary" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HamzaBenyazid&theme=default" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HamzaBenyazid&theme=default" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HamzaBenyazid&theme=github_dark" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HamzaBenyazid&theme=github_dark" alt="Stats" />
 </p>
 
 ---
