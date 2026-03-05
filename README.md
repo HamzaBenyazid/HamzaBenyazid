@@ -56,13 +56,28 @@
 
 > Classic Minesweeper playable right inside Obsidian — because why not!
 
-#### 🌐 [IPTV M3U Playlist Generator](https://github.com/HamzaBenyazid/IPTV-M3u-File-Generator)
+#### ⚙️ [DevOpsify](https://github.com/oubaydos/DevOpsify) *(co-founded)*
 
-> Python script to fetch and generate categorized M3U playlists from IPTV services.
+> A Spring Boot + React assistance platform that helps you bootstrap a DevOps project using open-source tools — Git, Docker, Jenkins, and more.
 
-#### 🧩 [Labyrinth](https://github.com/HamzaBenyazid/labyrinth)
+<p>
+  <a href="https://github.com/oubaydos/DevOpsify/stargazers">
+    <img src="https://img.shields.io/github/stars/oubaydos/DevOpsify?style=flat&color=yellow" alt="Stars" />
+  </a>
+  <img src="https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat&logo=react&logoColor=black" />
+</p>
 
-> A C/SDL maze game with real-time generation, solving algorithms, and interactive gameplay.
+#### ☕ [JavaRIG](https://github.com/oubaydos/javaRIG) *(co-founded)*
+
+> A lightweight Java library to generate random objects (POJOs, collections, etc.) using the Reflection API — perfect for testing and prototyping.
+
+<p>
+  <a href="https://github.com/oubaydos/javaRIG/stargazers">
+    <img src="https://img.shields.io/github/stars/oubaydos/javaRIG?style=flat&color=yellow" alt="Stars" />
+  </a>
+  <img src="https://img.shields.io/badge/Java-Reflection%20API-007396?style=flat&logo=openjdk&logoColor=white" />
+</p>
 
 ---
 
