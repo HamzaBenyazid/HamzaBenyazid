@@ -82,15 +82,15 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaBenyazid&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HamzaBenyazid&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaBenyazid&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HamzaBenyazid&theme=default" alt="GitHub Profile Summary" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HamzaBenyazid&theme=default" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HamzaBenyazid&theme=default" alt="Stats" />
 </p>
 
 ---
