@@ -11,6 +11,9 @@
   <a href="mailto:hamzabyazid@gmail.com">
     <img src="https://img.shields.io/badge/Email-hamzabyazid%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://hamzabenyazid.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-hamzabenyazid.dev-4CAF50?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
   <a href="https://github.com/sponsors/HamzaBenyazid">
     <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=flat&logo=github" />
   </a>
@@ -39,7 +42,7 @@
     <img src="https://img.shields.io/github/downloads/HamzaBenyazid/obsidian-live-variables/total?color=%233DDC84&logo=github&logoColor=%23fff&style=flat" alt="GitHub Downloads" />
   </a>
   <a href="https://obsidian.md/plugins?search=live%20variables">
-    <img src="https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=Obsidian%20Downloads&query=%24%5B%22live-variables%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2Fmaster%2Fcommunity-plugin-stats.json" alt="Obsidian Downloads" />
+    <img src="https://img.shields.io/badge/dynamic/json?logo=obsidian&color=%23483699&label=Obsidian%20Downloads&query=%24%5B%22live-variables%22%5D.downloads&url=https%3A%2F%2Fraw.githubusercontent.com%2Fobsidianmd%2Fobsidian-releases%2FHEAD%2Fcommunity-plugin-stats.json" />
   </a>
   <a href="https://github.com/HamzaBenyazid/Live-variables/stargazers">
     <img src="https://img.shields.io/github/stars/HamzaBenyazid/Live-variables?style=flat&color=yellow" alt="Stars" />
